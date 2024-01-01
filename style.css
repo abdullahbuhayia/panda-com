@@ -1,0 +1,72 @@
+.container{
+    margin: 10px 0px;
+}
+.cs-bg{
+    background-color:#FEEAE9 ;
+}
+.carousel-item{
+    padding: 20px 20px;
+}
+.price{
+    color:#FF136F ;
+}
+.banner-buy{
+    background-image: linear-gradient(to right, #FF136F ,#f84589 );
+    border-radius: 10px;
+    padding: 5px 20px;
+    cursor: pointer;
+    border: none;
+    color: aliceblue;
+}
+.cata1, .cata2, .cata3{
+    border: none;
+    border-radius: 10px;
+    color: #FFF;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.cata3{
+    background-image: linear-gradient(to right,#FFA331,#e9a552 );
+}
+.cata2{
+    background-image: linear-gradient(to right, #FF136F, #fe7cae );
+}
+.cata1{
+    background-image: linear-gradient(to right ,#3F07F8,#6744d9 );
+}
+.card{
+    text-align: center;
+}
+.card-button{
+    background-image: linear-gradient(to right, #000000 ,#180e13 );
+    border-radius: 10px;
+    padding: 5px 20px;
+    cursor: pointer;
+    border: none;
+    color: aliceblue;
+}
+.card{
+    border: none;
+    box-shadow: 2px 2px 10px lightgray;
+}
+.cata-txt{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 40px 0px ;
+
+}
+.footer{
+    height: 420px;
+    background-color: #FEEAE9;
+}
+.footer h4{
+    font-size: 15px;
+    color: #707070;
+}
+footer{
+    text-align: center;
+}
+.pad{
+    margin-bottom: 100px ;
+}
